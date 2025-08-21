@@ -14,7 +14,6 @@ finetunedModel/
 log/
 
 # Ignore the Datasets files
-.Dataset/
 Datasets/
 .DS_Store
 .ipynb_checkpoints/
