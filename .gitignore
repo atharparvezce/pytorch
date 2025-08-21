@@ -6,9 +6,12 @@ __pycache__/
 *.pyc
 
 # Ignore virtual environments/keys
-.env/
+.env
 .venv/
 
 # Ignore model outputs / logs
 finetunedModel/
 log/
+
+# Ignore the Datasets files
+.csv
